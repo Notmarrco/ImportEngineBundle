@@ -36,5 +36,11 @@
       "Mathielen\\ImportEngineBundle": ""
     }
   },
-  "target-dir": "Mathielen/ImportEngineBundle"
+  "target-dir": "Mathielen/ImportEngineBundle",
+  "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:Notmarrco/import-engine.git"
+        }
+    ]
 }
